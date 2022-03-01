@@ -1,1 +1,1 @@
-# Fetch-API-Data-In-JavaScript
+# Learning Fetch API Data In JavaScript + ES6 (Vanilla Javascript) !
