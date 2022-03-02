@@ -25,5 +25,5 @@ async function postData(){
 }
 
 
-//getData();
+getData();
 postData();
