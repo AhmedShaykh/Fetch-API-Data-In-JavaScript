@@ -9,7 +9,7 @@ async function getAPI() {
 
 }
 
-getAPI()
+getAPI();
 
 async function postAPI() {
     const api = await fetch('https://jsonplaceholder.typicode.com/posts', {
@@ -29,4 +29,4 @@ async function postAPI() {
     console.log(json, "Json")
 }
 
-postAPI()
+postAPI();
