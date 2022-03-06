@@ -1,4 +1,4 @@
-console.log("Fetch API Data In JavaScript + ES6");
+console.log("Fetch Data API In JavaScript + ES6");
 
 async function getAPI() {
     const api = await fetch('https://jsonplaceholder.typicode.com/todos/1');

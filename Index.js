@@ -24,6 +24,5 @@ async function postData() {
     console.log("Data = ", data);
 }
 
-
 getData();
 postData();
