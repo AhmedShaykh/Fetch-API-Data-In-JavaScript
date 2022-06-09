@@ -4,7 +4,7 @@ async function getAPI() {
     const api = await fetch('https://jsonplaceholder.typicode.com/todos/1');
     console.log(api, "GET API");
 
-    const json = await api.json()
+    const json = await api.json();
     console.log(json, "Json")
 
 }

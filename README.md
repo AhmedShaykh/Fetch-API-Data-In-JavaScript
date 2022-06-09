@@ -1,1 +1,1 @@
-# Learning Fetch Data API In JavaScript + ES6 (Vanilla Javascript)
+# Learning Fetch Data API In JavaScript + ES6 (Advanced Javascript)!
