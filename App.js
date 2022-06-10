@@ -15,12 +15,12 @@ async function postAPI() {
     const api = await fetch('https://jsonplaceholder.typicode.com/posts', {
         method: 'POST',
         body: JSON.stringify({
-            title: 'Yoo',
-            body: 'bang',
+            title: 'Learning',
+            body: 'JavaScript',
             userId: 4,
         }),
         headers: {
-            'Content-type': 'application/json; charset=UTF-8',
+            'Content-type': 'application/json; charset=UTF-8', // <=== Secrect Key or Token
         }
     });
     console.log(api, "POST API");
