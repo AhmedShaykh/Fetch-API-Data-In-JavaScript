@@ -20,7 +20,7 @@ async function postAPI() {
             userId: 4,
         }),
         headers: {
-            'Content-type': 'application/json; charset=UTF-8', // <=== Secrect Key or Token
+            'Content-type': 'application/json; charset=UTF-8' // <=== Secrect Key or Token
         }
     });
     console.log(api, "POST API");
